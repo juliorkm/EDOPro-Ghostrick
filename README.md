@@ -10,9 +10,9 @@ Add contents of the folders `expansions`, `pics` and `script` to the respective 
 
 ## Thematic decisions
 
-"[Ghostrick](https://yugipedia.com/wiki/Ghostrick)" is an archetype in Yu-Gi-Oh! that features cute versions of verious folklore and Halloween characters. It is used by the Duel Links incarnation of [Bonz](https://yugipedia.com/wiki/Bonz_(Duel_Links)), whose ace monster is [Pumpking the King of Ghosts](https://yugipedia.com/wiki/Pumpking_the_King_of_Ghosts_(Duel_Links)) according to himself:
+"[Ghostrick](https://yugipedia.com/wiki/Ghostrick)" is an archetype in Yu-Gi-Oh! that features cute versions of various folklore and Halloween characters. It is used by the Duel Links incarnation of [Bonz](https://yugipedia.com/wiki/Bonz_(Duel_Links)), whose ace monster is [Pumpking the King of Ghosts](https://yugipedia.com/wiki/Pumpking_the_King_of_Ghosts_(Duel_Links)) according to himself:
 
-"My ace monster is... Pumpking the King of Ghosts! The ones I'm enjoying these days are these freaky fellas. Ghostricks! They're not the strongest, and a bit tricky to use... But I can relate with these not-so-spooky specters. I'll keep gathering many different Ghost Cards to become the Duel King of the great beyond!"
+"My ace monster is... Pumpking the King of Ghosts! The ones I'm enjoying these days are these freaky fellas. Ghostricks! They're not the strongest, and a bit tricky to use... But I can relate with these not-so-spooky specters. I'll keep gathering many different Ghost Cards to become the Duel King of the great beyond!"  
 -Bonz, during his unlock event in Duel Links
 
 Bonz often calls his monsters "Ghost Cards" (「**ゴースト**・カード」), so him using "Ghostricks" (「**ゴースト**リック」) feels appropriate. Since Pumpking is "the King of Ghosts", it's only natural that Bonz would also want to make him the king of his new ghosts, the Ghostricks.
