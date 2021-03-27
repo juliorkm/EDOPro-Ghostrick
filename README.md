@@ -30,6 +30,7 @@ Bonz often calls his monsters "Ghost Cards" (「**ゴースト**・カード」)
 * The materials are generic enough for the Summon to be made with any 2 Ghostricks, as well as allowing for some engines with DARK monsters to synergize with the archetype.
 * This monster helps with 2 major issues in the archetype: swarming and gaining card advantage.
 * This monster's name is a play on its japanese name (「**ゴースト**王－パンプキング－」) and the naming convention of Ghostrick monsters (they all start with 「**ゴースト**リック」). In Japanese, it would be named 「**ゴーストリック**王－パンプキング－」.
+* **Note:** Artwork is an edit based on [Pumpking's appearance](https://yugipedia.com/wiki/Pumpking_the_King_of_Ghosts_(Duel_Arena)) in *Yu-Gi-Oh! Duel Arena*.
 
 ### Ghostrick Ectoplasm Fortification
 
@@ -42,6 +43,7 @@ Bonz often calls his monsters "Ghost Cards" (「**ゴースト**・カード」)
 * This trap helps with 2 major issues in the archetype: swarming and low ATK points, and consequentially also helps beating over Link Monsters as those can't be flipped face-down.
 * Monsters summoned with this effect are great targets for cards such as [Ghostrick Scare](https://yugipedia.com/wiki/Ghostrick_Scare) and [Ghostrick-Go-Round](https://yugipedia.com/wiki/Ghostrick-Go-Round), as they can be summoned during your opponent's turn.
 * Monsters summoned with this effect during your opponent's End Phase can be used as Xyz/Link Material during your turn (or even as steps into [Ghostrick Angel of Mischief](https://yugipedia.com/wiki/Ghostrick_Angel_of_Mischief), if using Xyz Monsters in the GY), while monsters summoned during your turn can be used as Contact Fusion Material.
+* **Note:** Artwork is an edit of a scene from [Episode 18, "Arena of Lost Souls, Part 2"](https://yugipedia.com/wiki/Yu-Gi-Oh!_-_Episode_018).
 
 ### Ghostrick Pumpkingdom
 
@@ -54,3 +56,4 @@ Bonz often calls his monsters "Ghost Cards" (「**ゴースト**・カード」)
 * Has a damage-related downside like all other "Ghostrick" Field Spells ([Mansion](https://yugipedia.com/wiki/Ghostrick_Mansion) halves the damage of your non-Ghostrick monsters, [Museum](https://yugipedia.com/wiki/Ghostrick_Museum) keeps your non-Ghostrick monsters from attacking and [Parade](https://yugipedia.com/wiki/Ghostrick_Parade) keeps you from doing damage altogether).
 * In high-risk high-reward fashion, this Field Spell turns things such as [Ghostrick Scare](https://yugipedia.com/wiki/Ghostrick_Scare) and [Ghostrick-Go-Round](https://yugipedia.com/wiki/Ghostrick-Go-Round) searched off of Pumpking into hand traps, allowing for more disruption with the risk of taking massive damage.
 * Can be quickly tagged out for [Ghostrick Mansion](https://yugipedia.com/wiki/Ghostrick_Mansion) through [Ghostrick Renovation](https://yugipedia.com/wiki/Ghostrick_Renovation).
+* **Note:** Artwork is an edit of the "Bonz's Spooky Zombie Party" [playmat from Yu-Gi-Oh! Duel Links](https://yugioh.fandom.com/wiki/List_of_Yu-Gi-Oh!_Duel_Links_playmats#Event_Playmats).
