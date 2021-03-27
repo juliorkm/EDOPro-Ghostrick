@@ -22,7 +22,7 @@ Bonz often calls his monsters "Ghost Cards" (「**ゴースト**・カード」)
 ### Pumpking the King of Ghostricks
 
 <p align="center">
-    <img src="https://github.com/juliorkm/EDOPro-Ghostrick/blob/master/docs/img/Pumpking the King of Ghostricks.png alt="Pumpking the King of Ghostricks" />
+    <img src="https://github.com/juliorkm/EDOPro-Ghostrick/blob/master/docs/Pumpking the King of Ghostricks.png" alt="Pumpking the King of Ghostricks" />
 </p>
 
 * The new boss monster of the archetype.
@@ -34,7 +34,7 @@ Bonz often calls his monsters "Ghost Cards" (「**ゴースト**・カード」)
 ### Ghostrick Ectoplasm Fortification
 
 <p align="center">
-    <img src="https://github.com/juliorkm/EDOPro-Ghostrick/blob/master/docs/img/Ghostrick Ectoplasm Fortification.png alt="Ghostrick Ectoplasm Fortification" />
+    <img src="https://github.com/juliorkm/EDOPro-Ghostrick/blob/master/docs/Ghostrick Ectoplasm Fortification.png" alt="Ghostrick Ectoplasm Fortification" />
 </p>
 
 * A new Continuous Trap for the archetype.
@@ -46,7 +46,7 @@ Bonz often calls his monsters "Ghost Cards" (「**ゴースト**・カード」)
 ### Ghostrick Pumpkingdom
 
 <p align="center">
-    <img src="https://github.com/juliorkm/EDOPro-Ghostrick/blob/master/docs/img/Ghostrick Pumpkingdom.png alt="Ghostrick Pumpkingdom" />
+    <img src="https://github.com/juliorkm/EDOPro-Ghostrick/blob/master/docs/Ghostrick Pumpkingdom.png" alt="Ghostrick Pumpkingdom" />
 </p>
 
 * A new Field Spell for the archetype.
