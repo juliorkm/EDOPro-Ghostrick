@@ -70,7 +70,7 @@ function s.posop(e,tp,eg,ep,ev,re,r,rp)
 		if Duel.GetLocationCount(tp,LOCATION_MZONE)>0 and Duel.IsExistingMatchingCard(s.spsfilter,tp,LOCATION_DECK,0,1,nil,e,tp) then
 			Duel.Hint(HINT_SELECTMSG,tp,HINTMSG_SPSUMMON)
 			if Duel.SelectYesNo(tp,aux.Stringid(id,0)) then
-				local g=Duel.SelectMatchingCard(tp,s.spsfilter,tp,LOCATION_GRAVE+LOCATION_DECK,0,1,1,nil,e,tp)
+				local g=Duel.SelectMatchingCard(tp,s.spsfilter,tp,LOCATION_DECK,0,1,1,nil,e,tp)
 				if #g>0 then
 					Duel.SpecialSummon(g,0,tp,tp,false,false,POS_FACEDOWN_DEFENSE)
 					Duel.ConfirmCards(1-tp,g)
