@@ -88,7 +88,8 @@ function s.spsfilter(c,e,tp)
 		and e:GetHandler():IsCanRemoveCounter(tp,0x2f,lv,REASON_COST)
 end
 function s.spstg(e,tp,eg,ep,ev,re,r,rp,chk)
-	if chk==0 then return Duel.IsExistingMatchingCard(s.spsfilter,tp,LOCATION_DECK+LOCATION_GRAVE,0,1,nil,e,tp) end
+	if chk==0 then return Duel.IsExistingMatchingCard(s.spsfilter,tp,LOCATION_DECK+LOCATION_GRAVE,0,1,nil,e,tp) and
+		Duel.GetLocationCount(tp,LOCATION_MZONE)>0 end
 	if Duel.GetLocationCount(tp,LOCATION_MZONE)<=0 then return false end
 	local g=Duel.GetMatchingGroup(s.spsfilter,tp,LOCATION_DECK+LOCATION_GRAVE,0,nil,e,tp)
 	local lvt={}
