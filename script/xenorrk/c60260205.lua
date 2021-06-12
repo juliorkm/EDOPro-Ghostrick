@@ -88,10 +88,10 @@ function s.spsfilter(c,e,tp)
 		and e:GetHandler():IsCanRemoveCounter(tp,0x2f,lv,REASON_COST)
 end
 function s.spstg(e,tp,eg,ep,ev,re,r,rp,chk)
-	if chk==0 then return Duel.IsExistingMatchingCard(s.spsfilter,tp,LOCATION_DECK+LOCATION_GRAVE,0,1,nil,e,tp) and
+	if chk==0 then return Duel.IsExistingMatchingCard(s.spsfilter,tp,LOCATION_GRAVE,0,1,nil,e,tp) and
 		Duel.GetLocationCount(tp,LOCATION_MZONE)>0 end
 	if Duel.GetLocationCount(tp,LOCATION_MZONE)<=0 then return false end
-	local g=Duel.GetMatchingGroup(s.spsfilter,tp,LOCATION_DECK+LOCATION_GRAVE,0,nil,e,tp)
+	local g=Duel.GetMatchingGroup(s.spsfilter,tp,LOCATION_GRAVE,0,nil,e,tp)
 	local lvt={}
 	local tc=g:GetFirst()
 	for tc in aux.Next(g) do
@@ -112,7 +112,7 @@ function s.spstg(e,tp,eg,ep,ev,re,r,rp,chk)
 	local lv=Duel.AnnounceNumber(tp,table.unpack(lvt))
 	e:GetHandler():RemoveCounter(tp,0x2f,lv,REASON_COST)
 	e:SetLabel(lv)
-	Duel.SetOperationInfo(0,CATEGORY_SPECIAL_SUMMON,nil,1,tp,LOCATION_DECK+LOCATION_GRAVE)
+	Duel.SetOperationInfo(0,CATEGORY_SPECIAL_SUMMON,nil,1,tp,LOCATION_GRAVE)
 end
 function s.filter(c,e,tp,lv)
 	local clv=0
@@ -128,7 +128,7 @@ function s.spsop(e,tp,eg,ep,ev,re,r,rp)
 	local lv=e:GetLabel()
 	if Duel.GetLocationCount(tp,LOCATION_MZONE)<=0 then return false end
 	Duel.Hint(HINT_SELECTMSG,tp,HINTMSG_SPSUMMON)
-	local g=Duel.SelectMatchingCard(tp,s.filter,tp,LOCATION_DECK+LOCATION_GRAVE,0,1,1,nil,e,tp,lv)
+	local g=Duel.SelectMatchingCard(tp,s.filter,tp,LOCATION_GRAVE,0,1,1,nil,e,tp,lv)
 	if #g>0 then
 		Duel.SpecialSummon(g,0,tp,tp,false,false,POS_FACEDOWN_DEFENSE)
 		Duel.ConfirmCards(1-tp,g)
